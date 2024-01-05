@@ -6,7 +6,7 @@
 Я начинающий фронтенд разработчик. Закончила курс Яндекс.Практикум по направлению веб-разработка. В настоящий момент занимаюсь разработкой на фрилансе.
 
 * 🌍  Я из Москвы
-* ✉️  Вы можете связаться со мной [![Telegram Badge](https://img.shields.io/badge/-olya_davlyud-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/olya_davlyud) или ![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:davlyudoa@yandex.ru)
+* ✉️  Вы можете связаться со мной [![Telegram Badge](https://img.shields.io/badge/-olya_davlyud-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/olya_davlyud) или [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:davlyudoa@yandex.ru)
 
 -----------------------
 
